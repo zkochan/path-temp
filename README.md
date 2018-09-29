@@ -1,3 +1,5 @@
+> this package has been moved to https://github.com/zkochan/packages/tree/master/path-temp
+
 # path-temp
 
 > Returns a unique temp file name inside the specified folder
